@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "categories": {
+        "id": 1,
+        "name": "Technology"
+      }
+    },
+    {
+      "categories": {
+        "id": 2,
+        "name": "Finance"
+      }
+    },
+    {
+      "categories": {
+        "id": 3,
+        "name": "Tourism"
+      }
+    },
+    {
+      "categories": {
+        "id": 4,
+        "name": "Education"
+      }
+    }
+  ]
+}
